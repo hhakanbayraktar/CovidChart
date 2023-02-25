@@ -1,3 +1,3 @@
 # CovidChart
 
-Asp.Net Core + SignalR
+Asp.Net Core + SignalR + Google Charts
